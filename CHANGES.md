@@ -1,5 +1,9 @@
 ## Changelog
 
+### Next Release
+
+- Test under python 3.10
+
 ### Release 0.1 (2021-02-05)
 
 No code changes.
