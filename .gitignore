@@ -1,9 +1,5 @@
 *~
-*.pyc
-*.pyo
-/excerpt_html.egg-info/
-/dist/
-/build/
+__pycache__/
 
 /.coverage
 /.tox/

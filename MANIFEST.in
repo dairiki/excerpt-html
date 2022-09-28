@@ -1,3 +1,5 @@
 include tox.ini CHANGES.md
 recursive-include tests *.py
-exclude .github
+
+prune .github
+exclude .gitignore
