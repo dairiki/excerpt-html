@@ -1,6 +1,6 @@
 ## Changelog
 
-### Next Release
+### Release 0.2 (2022-09-28)
 
 - Fix deprecation warnings from `beautifulsoup4>=4.11.0`.
 - Test under python 3.10
