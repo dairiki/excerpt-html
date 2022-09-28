@@ -2,6 +2,7 @@
 
 ### Next Release
 
+- Fix deprecation warnings from `beautifulsoup4>=4.11.0`.
 - Test under python 3.10
 - Drop support for python 3.6
 

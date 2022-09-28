@@ -70,7 +70,7 @@ def excerpt_html(html_text,
 
         def is_cut_mark(elem):
             return isinstance(elem, bs4.Comment) and cut_mark_match(elem)
-        cut_point = soup.find(text=is_cut_mark)
+        cut_point = soup.find(string=is_cut_mark)
 
     if cut_point is None and min_words:
         cut_point = _find_truncation_point(soup, min_words)
