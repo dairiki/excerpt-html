@@ -3,6 +3,7 @@
 ### Next Release
 
 - Test under python 3.10
+- Drop support for python 3.6
 
 ### Release 0.1 (2021-02-05)
 
