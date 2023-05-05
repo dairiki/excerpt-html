@@ -4,6 +4,7 @@
 [![PyPI Supported Python Versions](https://img.shields.io/pypi/pyversions/excerpt-html.svg)](https://pypi.python.org/pypi/excerpt-html/)
 [![GitHub license](https://img.shields.io/github/license/dairiki/excerpt-html)](https://github.com/dairiki/excerpt-html/blob/master/LICENSE)
 [![GitHub Actions (Tests)](https://github.com/dairiki/excerpt-html/workflows/Tests/badge.svg)](https://github.com/dairiki/excerpt-html)
+[![Trackgit Views](https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lhavq4sao0ljnlegs1el)](https://trackgit.com)
 
 This distribution provides a single function, `excerpt_html` whose
 purpose is to extract leading portions of HTML text.  This is useful,
